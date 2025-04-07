@@ -27,7 +27,7 @@ Boycott Beacon is a **free and open-source browser extension** designed to empow
 
 This organization hosts the core components of the Boycott Beacon project:
 
-*   **[📌 boycott-beacon]([https://github.com/boycott-beacon/boycott-beacon-ch](https://github.com/boycott-beacon/boycott-beacon-chrome-extension)**: The main browser extension source code. Find installation instructions and report extension-specific issues here.
+*   **[📌 boycott-beacon](https://github.com/boycott-beacon/boycott-beacon-chrome-extension)**: The main browser extension source code. Find installation instructions and report extension-specific issues here.
 *   **[🌐 boycott-beacon-website](https://github.com/boycott-beacon/boycott-beacon.github.io)**: The source code for our official website ([boycott-beacon.github.io]([https://boycott-beacon.github.io])), built with Hugo. Find website content and report website issues here.
 
 ## 💻 Get the Extension
